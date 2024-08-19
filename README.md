@@ -2,7 +2,8 @@
 A replacement for the Sony SND IC (part number 343-0045-A) as used on the Macintosh Plus, SE and others.
 This was designed for the Macintosh Plus Clone project, but should be able to be used in other Macintoshes.
 
-![telegram-cloud-photo-size-4-5909207269776672494-y](https://github.com/user-attachments/assets/e4eed235-4471-4c81-b216-38d7b753b8b9)
+![Screenshot_20240816-162321~2](https://github.com/user-attachments/assets/c34cc3c8-0712-4313-ade1-feef66516c8a)
+
 
 **So, What Is It?**
 
