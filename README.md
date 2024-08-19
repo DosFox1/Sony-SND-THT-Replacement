@@ -1,8 +1,10 @@
 # Sony SND THT Replacement 
+
 A replacement for the Sony SND IC (part number 343-0045-A) as used on the Macintosh Plus, SE and others.
 This was designed for the Macintosh Plus Clone project, but should be able to be used in other Macintoshes.
 
 **So, What Is It?**
+
 The Sony SND is a custom IC, developed by Sony for the Macintosh Plus. 
 It has three main functions - volume control, audio amplification, as well as providing the POR (Power On Reset) signal for the system. 
 The original IC represents one of three custom pieces of silicon found with the Macintosh Plus. 
@@ -15,6 +17,7 @@ Whereas the design for the audio amplification and volume control was taken from
 https://forums.macrumors.com/threads/macintosh-512k-schematic.2291827/
 
 **Parts List**
+
 The SND is comprised of relatively easy to find, off the shelf parts:
 
 C1       100n 50V       100N_TH_CAP            CAP_5.08MM_PITCH 1
@@ -86,6 +89,7 @@ All components are through hole, and are designed to be easily soldered.
 The PCB can be sourced from your favoured fab house, I prefer JLCPCB (sorry PCBWay) - and only cost $4 for five boards. 
 
 **Assembly Notes and Errata**
+
 This design is the initial VDEV1 version of the SND replacement, although an example has been produced on veroboard, 
 it is currently not known if this will operate correctly.
 However, all components listed are identical to the prototype version, so are known to work.
