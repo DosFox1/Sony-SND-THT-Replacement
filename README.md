@@ -1,6 +1,5 @@
 # Sony SND THT Replacement 
 ![telegram-cloud-photo-size-4-5909207269776672494-y](https://github.com/user-attachments/assets/e4eed235-4471-4c81-b216-38d7b753b8b9)
-![telegram-cloud-photo-size-4-5915567824284271466-y](https://github.com/user-attachments/assets/055314b8-cb3b-44d3-9afe-6c44a6ecbfc0)
 
 A replacement for the Sony SND IC (part number 343-0045-A) as used on the Macintosh Plus, SE and others.
 This was designed for the Macintosh Plus Clone project, but should be able to be used in other Macintoshes.
