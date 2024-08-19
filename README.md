@@ -2,7 +2,12 @@
 A replacement for the Sony SND IC (part number 343-0045-A) as used on the Macintosh Plus, SE and others.
 This was designed for the Macintosh Plus Clone project, but should be able to be used in other Macintoshes.
 
+
+
+
 ![Screenshot_20240816-162321~2](https://github.com/user-attachments/assets/c34cc3c8-0712-4313-ade1-feef66516c8a)
+
+
 
 
 **So, What Is It?**
@@ -96,7 +101,11 @@ This design is the initial VDEV1 version of the SND replacement, although an exa
 it is currently not known if this will operate correctly.
 However, all components listed are identical to the prototype version, so are known to work.
 
+
+
 <img width="324" alt="Screenshot 2024-08-19 at 20 36 02" src="https://github.com/user-attachments/assets/627c5565-2866-4a05-8091-defc22d9686b">
+
+
 
 
 The design (being through hole) is unlikely to fit into an existing Macintosh chassis, and was designed as a
