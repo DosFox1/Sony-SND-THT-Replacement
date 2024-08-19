@@ -1,8 +1,8 @@
 # Sony SND THT Replacement 
-![telegram-cloud-photo-size-4-5909207269776672494-y](https://github.com/user-attachments/assets/e4eed235-4471-4c81-b216-38d7b753b8b9)
-
 A replacement for the Sony SND IC (part number 343-0045-A) as used on the Macintosh Plus, SE and others.
 This was designed for the Macintosh Plus Clone project, but should be able to be used in other Macintoshes.
+
+![telegram-cloud-photo-size-4-5909207269776672494-y](https://github.com/user-attachments/assets/e4eed235-4471-4c81-b216-38d7b753b8b9)
 
 **So, What Is It?**
 
@@ -94,6 +94,9 @@ The PCB can be sourced from your favoured fab house, I prefer JLCPCB (sorry PCBW
 This design is the initial VDEV1 version of the SND replacement, although an example has been produced on veroboard, 
 it is currently not known if this will operate correctly.
 However, all components listed are identical to the prototype version, so are known to work.
+
+<img width="324" alt="Screenshot 2024-08-19 at 20 36 02" src="https://github.com/user-attachments/assets/627c5565-2866-4a05-8091-defc22d9686b">
+
 
 The design (being through hole) is unlikely to fit into an existing Macintosh chassis, and was designed as a
 "first stab" attempt at making a replacement SND. It is anticipated that a secondary improved SMD design will be more suited to this application.
