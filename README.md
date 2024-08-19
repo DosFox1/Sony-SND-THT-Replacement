@@ -113,6 +113,8 @@ The design (being through hole) is unlikely to fit into an existing Macintosh ch
 
 The zener diode at D1 theoretically should be a 1N5231, but any similar 5.1v zener will suffice. 
 
+Assembly should be fairly straight forward for those with some experience with electronic assembly.
+
 Additionally, as the audio section is based off the original Macintosh 128K, -12V is required, which is not provided by the SND header. 
 -12V can be tapped directly from the logic board - either from pin 2 (central pin) of the 7905 -5v regulator, pin 8 of the audio/power header
 or from pin 5 of the MC3488 line driver. 
