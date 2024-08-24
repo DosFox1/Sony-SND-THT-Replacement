@@ -121,3 +121,5 @@ or from pin 5 of the MC3488 line driver.
 I heavily suggest checking with a multimeter before installation - this may damage the SND adapter, the Macintosh board, or both.
 
 The board should be fitted so that the majority of the boards cover the 6522 and Z8530. It may be necessary to add a standard IC socket to raise the board.
+
+Note - VDEV1 boards were assembled and worked first time. Also note that a TL082 can be subsistuted instead of the TL072 if needed.
