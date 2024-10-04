@@ -85,9 +85,9 @@ R9       470k           470K_TH_RESISTOR       RESISTORTHRUHOLE 1
 
 R10      470k           470K_TH_RESISTOR       RESISTORTHRUHOLE 1
 
-R11      200k           100K_TH_RESISTOR       RESISTORTHRUHOLE 1
+R11      200k           200K_TH_RESISTOR       RESISTORTHRUHOLE 1
 
-R12      150R           150K_TH_RESISTOR       RESISTORTHRUHOLE 1
+R12      150R           150R_TH_RESISTOR       RESISTORTHRUHOLE 1
 
 R13      10R            10R_TH_RESISTOR        RESISTORTHRUHOLE 1
 
@@ -123,3 +123,11 @@ I heavily suggest checking with a multimeter before installation - this may dama
 The board should be fitted so that the majority of the boards cover the 6522 and Z8530. It may be necessary to add a standard IC socket to raise the board.
 
 Note - VDEV1 boards were assembled and worked first time. Also note that a TL082 can be subsistuted instead of the TL072 if needed.
+
+Important Assembly Note!
+R11 should be a 200K resistor. It is erroneously marked as a 68K on VDEV1 boards. 
+
+This will be fixed in V1.0
+
+Additionally - resistor R21 on the Macintosh Board itself needs to be snipped off, as this is a 47 ohm pull up to 5V on the POR circuit. 
+No clue why Sony designed it this way, but it needs to be removed (or replaced with a 1M, and R1 on the Sony SND replacement DNF'd). 
