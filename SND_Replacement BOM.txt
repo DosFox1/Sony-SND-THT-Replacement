@@ -38,7 +38,7 @@ R7       68k            68K_TH_RESISTOR        RESISTORTHRUHOLE Resistors TH    
 R8       150k           150K_TH_RESISTOR       RESISTORTHRUHOLE Resistors TH                 1
 R9       470k           470K_TH_RESISTOR       RESISTORTHRUHOLE Resistors TH                 1
 R10      470k           470K_TH_RESISTOR       RESISTORTHRUHOLE Resistors TH                 1
-R11      200k           100K_TH_RESISTOR       RESISTORTHRUHOLE Resistors TH                 1
-R12      150R           150K_TH_RESISTOR       RESISTORTHRUHOLE Resistors TH                 1
+R11      200k           200K_TH_RESISTOR       RESISTORTHRUHOLE Resistors TH                 1
+R12      150R           150R_TH_RESISTOR       RESISTORTHRUHOLE Resistors TH                 1
 R13      10R            10R_TH_RESISTOR        RESISTORTHRUHOLE Resistors TH                 1
 SP2      1PIN           1PIN                   1PIN             generic parts                1
