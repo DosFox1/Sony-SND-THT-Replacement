@@ -3984,7 +3984,7 @@ grid 2.54 mm</description>
 </class>
 </classes>
 <parts>
-<part name="A1" library="Schematic Symbols" deviceset="PROJECT_DETAILS" device="_CUSTOM" value="VDEV1"/>
+<part name="A1" library="Schematic Symbols" deviceset="PROJECT_DETAILS" device="_CUSTOM" value="V1.0"/>
 <part name="IC1" library="linear" library_urn="urn:adsk.eagle:library:262" deviceset="TL072" device="P" package3d_urn="urn:adsk.eagle:package:16409/2"/>
 <part name="IC2" library="40xx" library_urn="urn:adsk.eagle:library:80" deviceset="4016" device="N" package3d_urn="urn:adsk.eagle:package:16407/2"/>
 <part name="IC3" library="74xx-eu" library_urn="urn:adsk.eagle:library:85" deviceset="74*05" device="N" package3d_urn="urn:adsk.eagle:package:16407/2" technology="LS"/>
